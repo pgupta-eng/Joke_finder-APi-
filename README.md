@@ -1,2 +1,2 @@
 # Joke_finder-APi-
-Developed a joke finder using APIs and python. This was developed basically for learning API
+Developed a joke finder using APIs and python. Access json data through apis and manipulate the data in your application.
